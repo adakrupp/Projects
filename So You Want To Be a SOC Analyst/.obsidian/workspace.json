@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "32a83f29b821373d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dd576efb72bd974",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab9ec596c31ce0fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "So You Want to Be a SOC Analyst.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "So You Want to Be a SOC Analyst"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30c7d6fc8018a6af",
+    "type": "split",
+    "children": [
+      {
+        "id": "3648e565548a4c6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2966b5f15604c21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ff758ab6307bef44",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "39aee77bc68ccbd3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f0dc2074e2237e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "1da9d8e1f4436e58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "138713c93033d742",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "So You Want to Be a SOC Analyst.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for So You Want to Be a SOC Analyst"
+            }
+          },
+          {
+            "id": "42dc1b3a44fb6903",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "So You Want to Be a SOC Analyst.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from So You Want to Be a SOC Analyst"
+            }
+          },
+          {
+            "id": "09033c873733aec4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5d56a28732a7ec20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "So You Want to Be a SOC Analyst.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of So You Want to Be a SOC Analyst"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ab9ec596c31ce0fc",
+  "lastOpenFiles": [
+    "Screenshots/Pasted image 20250116122403.png",
+    "Screenshots/Pasted image 20250116122324.png",
+    "Screenshots/Pasted image 20250116122310.png",
+    "Screenshots/Pasted image 20250116122245.png",
+    "Screenshots/Pasted image 20250116122227.png",
+    "Screenshots/Pasted image 20250116122210.png",
+    "Screenshots/Pasted image 20250116122155.png",
+    "Screenshots/Pasted image 20250116122139.png",
+    "Screenshots/Pasted image 20250116122113.png",
+    "Screenshots/Pasted image 20250116122055.png",
+    "Screenshots/Pasted image 20250116122028.png",
+    "So You Want to Be a SOC Analyst.md",
+    "Screenshots"
+  ]
+}

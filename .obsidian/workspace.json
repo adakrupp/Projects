@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "477aae5a00bcb946",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b85b49657ea0bb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc980c80e931f0d2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7cc259428f4f69fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "76e62d8b2e3b8885",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05817befe20b9865",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c28936657dafeede",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ebf90fc8f14b63f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ec7988085382ca61",
+    "type": "split",
+    "children": [
+      {
+        "id": "26dfa4dda1330d3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9c024cd80745a54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0d13578c383c7de7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "bd2982c3eee8658f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "13ed8b73298160eb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "05817befe20b9865",
+  "lastOpenFiles": [
+    "So You Want To Be a SOC Analyst/Screenshots/Pasted image 20250116122403.png",
+    "So You Want To Be a SOC Analyst/Screenshots/Pasted image 20250116122324.png",
+    "So You Want To Be a SOC Analyst/Screenshots/Pasted image 20250116122310.png",
+    "So You Want To Be a SOC Analyst/Screenshots/Pasted image 20250116122245.png",
+    "So You Want To Be a SOC Analyst/Screenshots/Pasted image 20250116122227.png",
+    "So You Want To Be a SOC Analyst/Screenshots/Pasted image 20250116122210.png",
+    "So You Want To Be a SOC Analyst/Screenshots/Pasted image 20250116122155.png",
+    "So You Want To Be a SOC Analyst/Screenshots/Pasted image 20250116122139.png",
+    "So You Want To Be a SOC Analyst/Screenshots/Pasted image 20250116122113.png",
+    "So You Want To Be a SOC Analyst/Screenshots/Pasted image 20250116122055.png",
+    "So You Want To Be a SOC Analyst/Screenshots/Pasted image 20250116122028.png",
+    "So You Want To Be a SOC Analyst/Screenshots",
+    "So You Want To Be a SOC Analyst/Untitled",
+    "So You Want To Be a SOC Analyst/So You Want to Be a SOC Analyst.md",
+    "lu4303679gkn.tmp",
+    "So You Want To Be a SOC Analyst/Untitled.md",
+    "So You Want To Be a SOC Analyst"
+  ]
+}

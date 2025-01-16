@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Lab Setup.md",
+                "file": "2. Getting Started.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Lab Setup"
+              "title": "2. Getting Started"
             }
           }
         ]
@@ -162,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3fe7fe711d82db2e",
+  "active": "91c778858a88583f",
   "lastOpenFiles": [
     "1. Lab Setup.md",
     "1. Lab Setup.md",
