@@ -2,22 +2,22 @@ import re
 import sys
 
 def convert_image_links(input_file, output_file):
-    # Regular expression to find Obsidian image links
-    pattern = r'!\[\[(.*?)\]\]'
+    # Regular expression to find GitHub image links
+    pattern = r'!\[\]\(([^)]+)\)'
 
     # Read the input file
     with open(input_file, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # Replace Obsidian image links with GitHub markdown format and replace spaces with %20
-    def replace_spaces(match):
+    # Function to prepend 'Screenshots/' to the image links
+    def add_screenshots_folder(match):
         image_link = match.group(1)
-        # Replace spaces with %20 in the image link
-        image_link = image_link.replace(' ', '%20')
+        # Prepend 'Screenshots/' to the image link
+        image_link = "Screenshots/" + image_link
         return f"![]({image_link})"
 
     # Perform the replacement
-    converted_content = re.sub(pattern, replace_spaces, content)
+    converted_content = re.sub(pattern, add_screenshots_folder, content)
 
     # Write the converted content to the output file
     with open(output_file, 'w', encoding='utf-8') as f:
@@ -37,3 +37,4 @@ if __name__ == "__main__":
 
     # Call the function to convert the image links
     convert_image_links(input_file, output_file)
+

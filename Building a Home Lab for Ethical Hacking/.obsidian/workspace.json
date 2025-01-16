@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Getting Started.md",
+                "file": "1. Lab Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Getting Started"
+              "title": "1. Lab Setup"
             }
           }
         ]
@@ -162,13 +162,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91c778858a88583f",
+  "active": "3fe7fe711d82db2e",
   "lastOpenFiles": [
     "1. Lab Setup.md",
     "1. Lab Setup.md",
+    "2. Getting Started.md",
     "convert_images.py",
     "convert_images.sh",
-    "2. Getting Started.md",
     "test.md",
     "1. Lab Setup2.md",
     "Screenshots/Pasted image 20250116102730.png",
