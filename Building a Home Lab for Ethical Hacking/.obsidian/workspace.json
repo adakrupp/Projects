@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "a22ed78b030a34a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce0b8e836963db44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91c778858a88583f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Getting Started.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Getting Started"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "efc7d118e23ec8ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "24c663f2f046fcdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fe7fe711d82db2e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7735b573cdc904d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2ed21e4bdc9aa899",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a2190565c8b6fe8c",
+    "type": "split",
+    "children": [
+      {
+        "id": "66e4140cae58abbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4c4fe51c8c7494d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Building a Home Lab for Ethical Hacking - A Beginner's guide (On Proxmox).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Building a Home Lab for Ethical Hacking - A Beginner's guide (On Proxmox)"
+            }
+          },
+          {
+            "id": "a878b8892376fdaa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Building a Home Lab for Ethical Hacking - A Beginner's guide (On Proxmox).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Building a Home Lab for Ethical Hacking - A Beginner's guide (On Proxmox)"
+            }
+          },
+          {
+            "id": "b2101bc7e1f3b945",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bd6c20808ef3b243",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Building a Home Lab for Ethical Hacking - A Beginner's guide (On Proxmox).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Building a Home Lab for Ethical Hacking - A Beginner's guide (On Proxmox)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "91c778858a88583f",
+  "lastOpenFiles": [
+    "1. Lab Setup.md",
+    "1. Lab Setup.md",
+    "convert_images.py",
+    "convert_images.sh",
+    "2. Getting Started.md",
+    "test.md",
+    "1. Lab Setup2.md",
+    "Screenshots/Pasted image 20250116102730.png",
+    "Screenshots/Pasted.md",
+    "Video.md",
+    "1.Lab",
+    "fix_links.sh",
+    "Screenshots/Pasted image 20250116101118.png",
+    "Screenshots/Pasted image 20250115103953.png",
+    "Screenshots/Pasted image 20250115104803.png",
+    "Screenshots/Pasted image 20250114104050.png",
+    "Screenshots/Pasted image 20250116095628.png",
+    "Screenshots/Pasted image 20250115104916.png",
+    "Screenshots/Pasted image 20250115104829.png",
+    "Screenshots/Pasted image 20250115104649.png",
+    "Screenshots/Pasted image 20250115104557.png",
+    "Building a Home Lab for Ethical Hacking - A Beginner's guide (On Proxmox).md",
+    "Screenshots",
+    "Welcome.md"
+  ]
+}
