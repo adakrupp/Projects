@@ -11,10 +11,14 @@
             "id": "bc980c80e931f0d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "So You Want To Be a SOC Analyst/So You Want to Be a SOC Analyst.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "So You Want to Be a SOC Analyst"
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "So You Want To Be a SOC Analyst/So You Want to Be a SOC Analyst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for So You Want to Be a SOC Analyst"
             }
           },
           {
@@ -107,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "So You Want To Be a SOC Analyst/So You Want to Be a SOC Analyst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from So You Want to Be a SOC Analyst"
             }
           },
           {
@@ -132,9 +138,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "So You Want To Be a SOC Analyst/So You Want to Be a SOC Analyst.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of So You Want to Be a SOC Analyst"
             }
           }
         ]
@@ -154,7 +162,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05817befe20b9865",
+  "active": "bc980c80e931f0d2",
   "lastOpenFiles": [
     "So You Want To Be a SOC Analyst/Screenshots/Pasted image 20250116122403.png",
     "So You Want To Be a SOC Analyst/Screenshots/Pasted image 20250116122324.png",
